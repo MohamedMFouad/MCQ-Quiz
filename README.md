@@ -32,5 +32,12 @@ npm start
 
 ```
 
+to connect to database 
+
+db/common/config.js
+
+const dbconfig = {
+    dburl: "link from MongoDB Atlas  "
+}
 
  
